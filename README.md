@@ -15,3 +15,8 @@ Statistics (Option 3): Calculates a total value.
 Current Logic: It sums the unit costs and multiplies that sum by the total number of product types in the list.
 
 Termination (Option 4): Displays a goodbye message and stops the script
+
+
+FLOW DIAGRAM:
+
+https://drive.google.com/file/d/1DX5luVOVIPVzyU9t553ISVSwEbnABHfm/view?usp=sharing
